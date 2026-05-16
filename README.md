@@ -8,7 +8,7 @@
   <a href="https://github.com/Orvantia">
     <img src="https://img.shields.io/badge/GitHub-Orvantia-181717?style=for-the-badge&logo=github" />
   </a>
-  <img src="https://img.shields.io/badge/Ubicación-Querétaro,%20México-007ACC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ubicación-México-007ACC?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Software-A%20medida-6E40C9?style=for-the-badge" />
 </p>
 
