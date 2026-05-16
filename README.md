@@ -88,94 +88,6 @@ El sitio y los proyectos asociados a Orvantia pueden integrarse con un stack mod
 | Backend | Python, Django |
 | Bases de datos | PostgreSQL, MySQL, SQLite |
 | Infraestructura | Docker, GitHub Pages, servidores cloud |
-| Formularios | Formspree |
-
----
-
-## 📬 Formulario de contacto
-
-El formulario del sitio está pensado para recibir solicitudes de clientes mediante **Formspree**.
-
-Campos incluidos:
-
-- Nombre completo
-- Empresa
-- Correo electrónico
-- Teléfono
-- Servicio de interés
-- Mensaje
-
-Para activar el formulario:
-
-1. Crear una cuenta en [Formspree](https://formspree.io).
-2. Crear un nuevo formulario.
-3. Copiar el ID generado.
-4. Reemplazar `YOUR_FORM_ID` dentro de `index.html`.
-
-Ejemplo:
-
-```html
-<form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
-```
-
----
-
-## 📁 Estructura recomendada
-
-```txt
-Orvantia.github.io/
-│
-├── index.html
-├── styles.css
-├── script.js
-│
-├── assets/
-│   ├── img/
-│   └── icons/
-│
-├── README.md
-└── LICENSE
-```
-
----
-
-## 🌐 Deploy con GitHub Pages
-
-Este proyecto puede publicarse fácilmente usando **GitHub Pages**.
-
-### Pasos generales
-
-1. Subir los archivos al repositorio.
-2. Entrar a la configuración del repositorio.
-3. Ir a:
-
-```txt
-Settings → Pages
-```
-
-4. Seleccionar:
-
-```txt
-Deploy from a branch
-```
-
-5. Elegir la rama:
-
-```txt
-main
-```
-
-6. Seleccionar la carpeta raíz:
-
-```txt
-/root
-```
-
-Una vez configurado, el sitio estará disponible en:
-
-```txt
-https://orvantia.github.io
-```
 
 ---
 
@@ -199,12 +111,6 @@ Software empresarial · A medida · Alto nivel
 | LinkedIn | Próximamente |
 | Instagram | Próximamente |
 | Facebook | Próximamente |
-
----
-
-## 📌 Estado del proyecto
-
-El sitio se encuentra en desarrollo como página principal de Orvantia. Su objetivo es presentar la marca, comunicar sus soluciones empresariales y servir como punto de contacto para nuevos proyectos de software a medida.
 
 ---
 
