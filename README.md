@@ -109,8 +109,8 @@ Software empresarial · A medida · Alto nivel
 |---|---|
 | GitHub | Activo |
 | LinkedIn | Próximamente |
-| [Instagram ](https://www.instagram.com/orva.ntia/)|
-| [Facebook ](https://www.facebook.com/profile.php?id=61591288011406&sk=directory_links&locale=es_LA)|
+| [Instagram ](https://www.instagram.com/orva.ntia/)| Activo |
+| [Facebook ](https://www.facebook.com/profile.php?id=61591288011406&sk=directory_links&locale=es_LA)| Activo |
 
 ---
 
