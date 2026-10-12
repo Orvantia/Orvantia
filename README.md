@@ -22,26 +22,6 @@ El sitio web presenta los servicios principales de la marca, el proceso de traba
 
 ---
 
-## 🚀 Sitio web
-
-Este repositorio contiene el código fuente del sitio web oficial de Orvantia.
-
-El sitio está diseñado como una landing page profesional orientada a conversión, con secciones claras para presentar servicios, explicar el proceso de trabajo y facilitar el contacto con posibles clientes.
-
----
-
-## 🧩 Secciones principales
-
-El sitio incluye:
-
-- **Inicio**
-- **Soluciones**
-- **Proceso**
-- **FAQ**
-- **Contacto**
-
----
-
 ## 🛠️ Soluciones ofrecidas
 
 Orvantia ofrece soluciones empresariales como:
@@ -78,16 +58,16 @@ El enfoque de Orvantia se basa en un proceso claro de principio a fin:
 
 ---
 
-## 💻 Tecnologías sugeridas
+## 💻 Tecnologías 
 
 El sitio y los proyectos asociados a Orvantia pueden integrarse con un stack moderno como:
 
 | Área | Tecnologías |
 |---|---|
-| Frontend | HTML, CSS, JavaScript, React |
-| Backend | Python, Django |
-| Bases de datos | PostgreSQL, MySQL, SQLite |
-| Infraestructura | Docker, GitHub Pages, servidores cloud |
+| Frontend | HTML, CSS, JavaScript, React, Flutter |
+| Backend | Python, Django, Java, JavaScript / Node.js, PHP |
+| Bases de datos | PostgreSQL, MySQL, SQLite, MongoDB, Redis |
+| Infraestructura | Docker, GitHub Pages, AWS, OCI, Kubernetes, servidores cloud |
 
 ---
 
